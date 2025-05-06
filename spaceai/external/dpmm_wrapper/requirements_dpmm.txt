@@ -1,0 +1,24 @@
+<<<<<<< HEAD
+```
+=======
+
+>>>>>>> 57fe8dc (versione con dpmm)
+numpy==1.26.4
+scikit-learn==1.3.2
+scipy==1.11.1
+numba==0.60.0
+<<<<<<< HEAD
+torch==2.6.0
+=======
+torch==2.0.1
+>>>>>>> 57fe8dc (versione con dpmm)
+git+https://github.com/danielecastellana22/torch_dpmm.git@main
+pyod
+pandas
+tqdm
+<<<<<<< HEAD
+```
+=======
+sktime
+pymannkendall
+>>>>>>> 57fe8dc (versione con dpmm)
